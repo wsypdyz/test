@@ -15,5 +15,12 @@ down  green came a sweet cilin
 he smile at me and he says's 
 that's the gem of ireland's crown
 
+<<<<<<< HEAD
 creating a new branck is quick & simple
+
+=======
+creating a new branck is quick AND SIMPLE
+>>>>>>> feature1
+
+NEW BRANCH IS QUICH AND SIMPLE
 
